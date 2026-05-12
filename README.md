@@ -1,2 +1,2 @@
 # -exercicios-vetores-c
-Atividades de programação 11/05
+Atividades de programação.
